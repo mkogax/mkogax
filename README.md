@@ -1,1 +1,1 @@
-<img src="mkogax_top.jpg">
+<img src="mkogax_top2.jpg">
